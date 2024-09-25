@@ -1,5 +1,5 @@
 # Security Policy
-Failure to follow these policies, if applicable, may lead to being temporarily or permanently banned from contributing to this project.
+Failure to follow these policies when reporting a potential vulnerability, if applicable, may lead to being temporarily or permanently banned from contributing to this project.
 
 ## Supported Versions
 These are the currently supported versions of Round.
